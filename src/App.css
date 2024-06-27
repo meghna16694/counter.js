@@ -1,0 +1,15 @@
+img{
+  width: 400px;
+  height: 400px;
+}
+i1{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button{
+  font-size: 30px;
+  width: 40px;
+  height: 40px;
+  margin-left: 10px;
+}
